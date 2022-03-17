@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ronaribeiro/Space%20Game%20-%20Web%20-%20Fluxo%20de%20Trabalho/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ronaribeiro/Space%20Game%20-%20Web%20-%20Fluxo%20de%20Trabalho/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
